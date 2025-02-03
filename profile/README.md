@@ -6,7 +6,7 @@ Welcome to the official GitHub organization for the UTS Motorsports Electric Car
 
 ## About Us
 
-The UTS Motorsports Electric Car Project was established in 1999 as UTS Motorsports. Initially competing with internal combustion cars, the team has transitioned to electric vehicles, showcasing innovation and sustainability. Our latest creation, the **UTSME:20 Bianca**, is a testament to our commitment to cutting-edge technology and engineering excellence.
+The UTS Motorsports Electric Car Project was established in 1999 as UTS Motorsports. Initially competing with internal combustion cars, the team has transitioned to electric vehicles, showcasing innovation and sustainability. Our continued work and improvement, is a testament to our commitment to cutting-edge technology and engineering excellence.
 
 Our team comprises undergraduate and postgraduate students from various disciplines, including engineering, science, business, and information technology. We are also supported by academics and university consultants who provide guidance and expertise.
 
