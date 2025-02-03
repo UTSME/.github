@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub organization for the UTS Motorsports Electric Car Project! This repository is dedicated to the development and collaboration of the UTS Motorsports Electric (UTSME) team, a student-based group representing the University of Technology Sydney (UTS) in national and international competitions such as Formula SAE-Australasia and F-S Sydney.
 
-<img src="images/bianca.jpg" alt="UTSME:20 Bianca" style="width:100%; height:auto;">
+<img src="images/bianca.jpeg" alt="UTSME:20 Bianca" style="width:100%; height:auto;">
 
 ## About Us
 
@@ -10,7 +10,7 @@ The UTS Motorsports Electric Car Project was established in 1999 as UTS Motorspo
 
 Our team comprises undergraduate and postgraduate students from various disciplines, including engineering, science, business, and information technology. We are also supported by academics and university consultants who provide guidance and expertise.
 
-<img src="images/team-photo.jpg" alt="Team Photo" style="width:100%; height:auto;">
+<img src="images/team-photo.jpeg" alt="Team Photo" style="width:100%; height:auto;">
 
 ## Learning Opportunities
 
